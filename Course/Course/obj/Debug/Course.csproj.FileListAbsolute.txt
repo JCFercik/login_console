@@ -1,0 +1,7 @@
+F:\Programador\Estudos\Work Space C#\Meus desafios\AppTelNet\Course\Course\bin\Debug\Course.exe.config
+F:\Programador\Estudos\Work Space C#\Meus desafios\AppTelNet\Course\Course\bin\Debug\Course.exe
+F:\Programador\Estudos\Work Space C#\Meus desafios\AppTelNet\Course\Course\bin\Debug\Course.pdb
+F:\Programador\Estudos\Work Space C#\Meus desafios\AppTelNet\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+F:\Programador\Estudos\Work Space C#\Meus desafios\AppTelNet\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+F:\Programador\Estudos\Work Space C#\Meus desafios\AppTelNet\Course\Course\obj\Debug\Course.exe
+F:\Programador\Estudos\Work Space C#\Meus desafios\AppTelNet\Course\Course\obj\Debug\Course.pdb
