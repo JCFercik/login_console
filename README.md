@@ -6,4 +6,4 @@
      faz-se uma validação no banco se os dados, usuário e senha, realmente existem e por fim devolve uma mensagem
      de sucesso✔️ ou erro❌.
 
-- 💬 Também tem a opção de cadastrar o usuário, caso mesmo não exista.
+- 💬 Também tem a opção de cadastrar o usuário, caso o mesmo não exista.
